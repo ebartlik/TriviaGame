@@ -19,7 +19,7 @@
       // Our stopwatch object
       var stopwatch = {
       
-        time: 10,
+        time: 30,
        
       
        
@@ -47,11 +47,11 @@
         },
         reset: function() {
             
-            stopwatch.time = 5;
+            stopwatch.time = 30;
             
         
             // DONE: Change the "display" div to "00:00."
-            $("#display").text("00:05");
+            $("#display").text("00:30");
 
         },
 
