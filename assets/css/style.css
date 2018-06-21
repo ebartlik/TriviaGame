@@ -1,0 +1,22 @@
+
+.form-check{
+    width:100%;
+   
+}
+
+
+body{
+    width:100%;
+    color: white;
+    background: #fefbd8;
+}
+#wrapper{
+    background: #a2b9bc;
+    width:100%;
+    
+}
+
+.card-header{
+    background:#878f99;
+}
+

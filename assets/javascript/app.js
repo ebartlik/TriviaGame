@@ -111,10 +111,10 @@
 
                 stopwatch.stop();
                 $("#final-score").html("Your score was: " + correctAnswerCount + "/5")
-                $("#header").html("AAAAAIIIRRRRBALLL");
+                $("#header").html("You're Money");
 
 
-                    $("#gif").attr('src',"http://lakergifs.com/wp-content/uploads/cryinglebron2.gif");   
+                    $("#gif").attr('src',"https://media.giphy.com/media/rGckn7bN5uIV2/giphy.gif");   
             
 
             }
@@ -141,10 +141,10 @@
 
                 stopwatch.stop();
                 $("#final-score").html("Your score was: " + correctAnswerCount + "/5")
-                $("#header").html("AAAAAIIIRRRRBALLL");
+                $("#header").html("Okay I see you");
 
 
-                    $("#gif").attr('src',"http://lakergifs.com/wp-content/uploads/cryinglebron2.gif");   
+                    $("#gif").attr('src',"https://media.giphy.com/media/3o7TKwBiaPbVVcdIuk/giphy.gif");   
             
 
             }
@@ -172,10 +172,10 @@
 
                 stopwatch.stop();
                 $("#final-score").html("Your score was: " + correctAnswerCount + "/5")
-                $("#header").html("AAAAAIIIRRRRBALLL");
+                $("#header").html("Not too shabby");
 
 
-                    $("#gif").attr('src',"http://lakergifs.com/wp-content/uploads/cryinglebron2.gif");   
+                    $("#gif").attr('src',"https://media.giphy.com/media/3oxHQpgJBPQBNFVPyg/giphy.gif");   
             
 
             }
@@ -202,10 +202,10 @@
 
                 stopwatch.stop();
                 $("#final-score").html("Your score was: " + correctAnswerCount + "/5")
-                $("#header").html("AAAAAIIIRRRRBALLL");
+                $("#header").html("Who sabotaged your answers?");
 
 
-                    $("#gif").attr('src',"http://lakergifs.com/wp-content/uploads/cryinglebron2.gif");   
+                    $("#gif").attr('src',"https://media.giphy.com/media/3oFzmdgYfuq2d8JNhC/giphy.gif");   
             
 
             }
@@ -233,10 +233,10 @@
 
                 stopwatch.stop();
                 $("#final-score").html("Your score was: " + correctAnswerCount + "/5")
-                $("#header").html("AAAAAIIIRRRRBALLL");
+                $("#header").html("What're you doing???");
 
 
-                    $("#gif").attr('src',"http://lakergifs.com/wp-content/uploads/cryinglebron2.gif");   
+                    $("#gif").attr('src',"https://media.giphy.com/media/fs62ZydKjn6lbJ0pAU/giphy.gif");   
             
 
             }
@@ -269,7 +269,7 @@
                 $("#header").html("AAAAAIIIRRRRBALLL");
 
 
-                    $("#gif").attr('src',"http://lakergifs.com/wp-content/uploads/cryinglebron2.gif");   
+                    $("#gif").attr('src',"https://media.giphy.com/media/GfiKTmRgjTpAI/giphy.gif");   
             
 
             }
